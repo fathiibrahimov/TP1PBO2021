@@ -1,0 +1,18 @@
+/*Saya Ahmad Fathi Ibrahimov mengerjakan evaluasi Tugas Praktikum 1 dalam mata kuliah
+Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+
+Kesulitan :
+- Karena saya mengerjakannya mepet deadline, yang saya kumpulkan hanya seadanya
+- Saya tidak menemukan image view sehingga pusing memikirkan cara mengatur posisi produk
+- Laptop saya tiba tiba error setelah copas kodingan saya sendiri ke visual studio (tadinya saya iseng nulis kodingannya di notepad++ dulu)
+
+hal baru yang sudah dipelajari :
+- User Control
+- List View
+- Password pada Text Box
+
+Fitur yang sudah dikerjakan :
+- Tidak ada fitur tambahan yang saya kerjakan, malah kurang beberapa fitur seperti fitur kembali
+- Sisanya sama seperti yang diperintahkan (kurang lebih)
